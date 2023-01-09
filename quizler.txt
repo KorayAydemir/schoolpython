@@ -1,0 +1,4 @@
+quiz1
+FOR veya WHILE Döngüsü kullanarak kullanıcıdan aınan sayı için  FAKTORİYEL hesaplama işlemini gerçkeleştiriniz
+quiz2
+While döngüsü kullanıcı tarafından ile girilen sayının kaç basamaklı olduğunu ekrana yazdırınız.
